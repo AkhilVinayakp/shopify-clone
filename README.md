@@ -6,7 +6,7 @@ Shopify clone using tailwind
 
 # Overview
 
-- Developed with html5 and css and TailwindCSS
+- Developed with html5 and  TailwindCSS
 - Mobile responsive
 
 
